@@ -1,0 +1,123 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 01.03.2012 01:03:05
+
+newmtl lights0
+	Ns 37.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.8000 0.8000 0.8000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.6600 0.6600 0.6600
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./lights.tga
+	map_Kd ./lights.tga
+
+newmtl nodmg
+	Ns 32.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.8000 0.8000 0.8000
+	Kd 0.8000 0.8000 0.8000
+	Ks 1.0900 1.0900 1.0900
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./nodamage.tga
+	map_Kd ./nodamage.tga
+
+newmtl black
+	Ns 37.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1333 0.1333 0.1333
+	Kd 0.1333 0.1333 0.1333
+	Ks 1.0500 1.0500 1.0500
+	Ke 0.0000 0.0000 0.0000
+
+newmtl c0
+	Ns 20.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.1373 0.0627
+	Kd 0.0000 0.1373 0.0627
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl undercarriage
+	Ns 35.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.8000 0.8000 0.8000
+	Kd 0.8000 0.8000 0.8000
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./undercarriage.tga
+	map_Kd ./undercarriage.tga
+
+newmtl grille1
+	Ns 38.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.8000 0.8000 0.8000
+	Kd 0.8000 0.8000 0.8000
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./grille1.tga
+	map_Kd ./grille1.tga
+
+newmtl badge
+	Ns 43.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.8000 0.8000 0.8000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./nodamage1.tga
+	map_Kd ./nodamage1.tga
+	map_d ./nodamage1.tga
+
+newmtl lights1
+	Ns 51.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.8000 0.8000 0.8000
+	Kd 0.8000 0.8000 0.8000
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./lights1.tga
+	map_Kd ./lights1.tga
+
+newmtl glass
+	Ns 34.0000
+	Ni 1.5000
+	d 0.4200
+	Tr 0.5800
+	Tf 0.4200 0.4200 0.4200 
+	illum 2
+	Ka 0.0078 0.0431 0.0549
+	Kd 0.0078 0.0431 0.0549
+	Ks 0.9333 0.9333 0.9333
+	Ke 0.0000 0.0000 0.0000
