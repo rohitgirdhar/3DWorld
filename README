@@ -1,0 +1,20 @@
+TO run the program:
+Just type: 
+$ make all run clean
+
+to run the program
+
+CONTROLS
+--------
+
+1. To speed up, <up arrow key>
+2. To slow down, <down arrow key>
+3. To turn right, <right arrow key>
+4. To turn left, <left arrow key>
+5. Change camera, 'c'
+6. In the heli view,
+		click and drag up, to move the camera up vertically
+		click and drag right, to move the camera right and so on
+		Scroll up to zoom into the scene
+		scroll down to zoom out of the scene
+
